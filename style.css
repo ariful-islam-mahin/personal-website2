@@ -81,3 +81,36 @@ h2{
 .work-item-sec div p{
     color: gray;
 }
+.contact button {
+    width: 120px;
+    height: 40px;
+    padding: 0px !important;
+    margin-top: 0px;
+}
+.contact h3{
+    font-size:35px
+}
+.contact{
+    width: 50%;
+    padding: 10px 40px;
+    background-color:rgba(0, 71, 163, 0.986);
+    color: white;
+    overflow: hidden;
+    border-radius: 8px;
+    margin: 200px auto 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.connect img {
+    width: 25px;
+    margin: 0px 5px;
+}
+.connect {
+    text-align: center;
+    margin: 80px auto 50px auto;
+    color: rgb(65, 65, 65);
+}
+.connect h3{
+    font-size: 25px;
+}
